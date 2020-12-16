@@ -1,0 +1,18 @@
+html{
+	background-color: white;
+	font-family: sans-serif;
+}
+
+body{
+	width: 100px;
+	min-width: 50px;
+	max-width: 200px;
+	margin: 0 auto;
+	padding: 1em;
+	background-color: gray;
+}
+
+.menu_row {
+	display: flex;
+	flex-flow: row wrap;
+}
