@@ -4,9 +4,9 @@ html{
 }
 
 body{
-	width: 100px;
-	min-width: 50px;
-	max-width: 200px;
+	width: 900px;
+	min-width: 300px;
+	max-width: 1300px;
 	margin: 0 auto;
 	padding: 1em;
 	background-color: gray;
