@@ -5,6 +5,13 @@ head{
 	background-color: black;
 }
 
+.header_title{
+	border: 3px;
+	padding: 1px;
+	background: purple;
+	color: red;
+}
+
 body{
 	min-width: 300px;
 	max-width: 1300px;
