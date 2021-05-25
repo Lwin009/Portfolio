@@ -1,4 +1,4 @@
-.page_header {
+/* .page_header {
     margin: 0px;
     padding: 1rem;
     background-color: gray;
@@ -6,4 +6,9 @@
 }
 body{
     font-size: 110%;
+} */
+
+h1 {
+font-size: 200%;
+font-weight: bold;
 }
