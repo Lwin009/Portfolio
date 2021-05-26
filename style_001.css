@@ -8,6 +8,13 @@ body{
     font-size: 110%;
 } */
 
+.site_header {
+    margin: 0px;
+    padding: 1rem;
+    background-color: blue;
+    color: blue;
+}
+
 h1 {
 font-size: 200%;
 font-weight: bold;
