@@ -1,0 +1,23 @@
+
+head{
+	font-size: 300px;
+	color: blue;
+	background-color: black;
+}
+
+div.div_nav_home{
+	
+}
+
+body{
+	min-width: 300px;
+	max-width: auto;
+	margin: 0 auto;
+	padding: 1em;
+	background-color: gray;
+}
+/*
+.menu_row {
+	display: flex;
+	flex-flow: row wrap;
+}*/
