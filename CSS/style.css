@@ -25,12 +25,55 @@
 /*
  *  Global CSS Function
  *****************************/
+html{
+    margin: 5px;
+    padding: 5px;
+}
+
 body {
+    width: 75%;
+    margin: 100px auto;
     background: #1B2432;
 	color: #C2F8CB;
+}
+
+a {    
+    color: #78C0E0;
+}
+
+h1 {
+    font-size: 5em;
 }
 
 
 /*
  * Header
  *****************************/
+#logo-LO, #content-name {
+    display: inline-block;
+}
+
+#content-name {
+    margin: 1px 1px 1px 10px;
+}
+
+
+.ulist {
+    background: lightskyblue;
+    padding: 10px 1px 1px 5px;
+    margin: 5px 1px 5px 0px;
+}
+
+.hbut, .abut, .pbut, .sbut, .cbut {    
+    margin: 5px 5px 1px 0px;
+    padding: 5px;
+    border: 1px ;
+    background: #1B2432;
+    border-radius: 1px;
+    text-decoration: none;
+    color: white;
+}
+
+.hbut:hover, .abut:hover, .pbut:hover, .sbut:hover, .cbut:hover {
+    background: #2C2B3C;
+}
