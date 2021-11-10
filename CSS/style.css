@@ -45,6 +45,17 @@ h1 {
     font-size: 5em;
 }
 
+figure {
+    margin: 2px;
+    padding: 3px;
+    font-size: xx-small;
+}
+
+figcaption {
+
+    word-wrap: normal;
+}
+
 
 /*
  * Header
