@@ -1,0 +1,73 @@
+/*
+ *  Global Elements CSSing
+ *****************************/
+html{
+    background: #1B2432;
+    color: #EFE7DA;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+body {
+    width: auto;
+    margin: 0px 0px 0px 5px;
+}
+
+header{
+    margin: 20px 25%;
+    display: block;
+}
+
+h1{
+    font-size: 6em;
+}
+
+a {
+    color: #0E79B2;
+    text-decoration: none;
+}
+
+
+/*
+ *  Header Elements CSSing
+ *****************************/
+#logo-name {
+    margin: 0px 0px 0px 150px;
+    
+
+}
+
+#logo-image {
+    margin: 1px;
+    float: left;
+}
+
+#logo-float {
+    display: inline-block;
+    margin: 1px auto;
+}
+
+/*
+ *
+ * Menu Navigation CSSing
+ **********************************/
+.navigation-menu {
+    margin: 0px 0px 0px -40px;
+    padding: 1px;
+}
+
+.ulist {
+    display: inline-block;
+}
+
+.hom-but, .abo-but, .pro-but,
+.skl-but, .con-but {
+    margin: 1px 25px;
+    padding: 5px;
+    border: 2px solid #EFE7DA;
+    background: #30323D;
+    color: #EFE7DA;
+    text-decoration: none;
+    border-radius: 3px;
+    text-align: center;
+} 
+
