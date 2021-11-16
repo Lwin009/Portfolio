@@ -1,0 +1,49 @@
+/*
+    
+    Colors::::
+
+    #00072d     Oxford Blue
+    #78C0E0     Dark Sky Blue
+    #59656F     Black Coral
+    #C2F8CB     Tea Green
+    #F0F0C9		Light Goldenrod Yellow
+    #D74E09		Flame Red
+    #59A5D8		Carolina Blue
+    #0E79B2		Star Command Blue
+	#3C787E		Ming gray green
+	#BBCBCB		Silver Sand
+	#030301		Rich Black FOGRA 39
+	#171D1C		Dark Jungle green
+	#30323D		Jet dark gray
+	#031A6B		Midnight Blue
+	#1B2432		Gunmetal
+	#2C2B3C		Raisin Black 
+    #EFE7DA     Linen (whiteish)
+    #090C02     Black Chocolate
+    #A72608     Rufous (sharp red)
+    #EEE5BF     Lemon Meringue (light yellow)
+
+******************************/
+
+
+
+ /**
+  * 
+  * Section CSSing
+  * ***************************/
+
+  .skll-but {
+    padding: 10px 10px 28px 10px ;
+  }
+
+  .empty-space {
+    margin: 75% 0px;
+  }
+
+  /**
+   * 
+   * Footer CSSing
+   * ***************************/
+   .ftr-posit {
+    text-align: center;
+   }
