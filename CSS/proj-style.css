@@ -1,11 +1,10 @@
 /*
-    
     Colors::::
 
-    #00072d     Oxford Blue
-    #78C0E0     Dark Sky Blue
-    #59656F     Black Coral
-    #C2F8CB     Tea Green
+    #00072d   Oxford Blue
+    #78C0E0   Dark Sky Blue
+    #59656F   Black Coral
+    #C2F8CB   Tea Green
     #F0F0C9		Light Goldenrod Yellow
     #D74E09		Flame Red
     #59A5D8		Carolina Blue
@@ -18,10 +17,10 @@
   	#031A6B		Midnight Blue
   	#1B2432		Gunmetal
   	#2C2B3C		Raisin Black 
-    #EFE7DA     Linen (whiteish)
-    #090C02     Black Chocolate
-    #A72608     Rufous (sharp red)
-    #EEE5BF     Lemon Meringue (light yellow)
+    #EFE7DA   Linen (whiteish)
+    #090C02   Black Chocolate
+    #A72608   Rufous (sharp red)
+    #EEE5BF   Lemon Meringue (light yellow)
 
 ******************************/
 
@@ -52,7 +51,7 @@
   }
 
   .empty-space {
-    margin: 75% 0px;
+    margin: 35% 0px;
   }
 
   /**

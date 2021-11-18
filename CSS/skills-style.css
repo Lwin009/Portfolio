@@ -1,5 +1,4 @@
 /*
-    
     Colors::::
 
     #00072d     Oxford Blue
@@ -25,7 +24,9 @@
 
 ******************************/
 
-
+  li {
+    list-style: disc;
+  }
 
  /**
   * 
@@ -52,8 +53,9 @@
   }
 
   .empty-space {
-    margin: 75% 0px;
+    margin: 35% 0px;
   }
+
 
   /**
    * 

@@ -1,5 +1,4 @@
 /*
-    
     Colors::::
 
     #00072d     Oxford Blue
@@ -44,10 +43,11 @@
     border-bottom-right-radius: 3px;
     border-bottom-left-radius: 3px;
   }
-  
+
   .section-content {
     width: 75%;
     margin: 0px 20px;
+    display: flexbox;
   }
 
   .me-image {
@@ -63,6 +63,16 @@
 
   .abme-but {
     padding: 10px 10px 28px 10px ;
+  }
+
+  .initial-word {
+    float: left;
+    font-size: 5em;
+    margin: -20px 0px -50px 0px;
+  }
+
+  .empty-space {
+    margin: 35% 0px;
   }
 
 
