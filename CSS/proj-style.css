@@ -50,6 +50,10 @@
     padding: 10px 10px 28px 10px ;
   }
 
+  .proj-ulist {
+    background: none;
+  }
+
   .empty-space {
     margin: 35% 0px;
   }

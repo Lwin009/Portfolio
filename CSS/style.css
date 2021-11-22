@@ -33,6 +33,7 @@ html{
     background: #1B2432;
     color: #EFE7DA;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 18px;
 }
 
 header {
@@ -114,9 +115,21 @@ a {
     padding: 10px 10px 28px 10px ;
   }
 
+  .mabm-but {
+    margin: 2px;
+    padding: 2px;
+    background: #EFE7DA ;
+    color: #3A3335;
+    text-decoration: none;
+    border-radius: 3px;
+    text-align: center;
+  }
+
   .empty-space {
     margin: 35% 0px;
   }
+
+
 
   /**
    * 
@@ -126,97 +139,3 @@ a {
     text-align: center;
    }
 
-
-/*{
-    /*body {
-        width: auto;
-        margin: 0px 0px 0px 5px;
-    }
-
-    header{
-        margin: 20px 25%;
-        display: block;
-    }
-
-    h1{
-        font-size: 6em;
-    }
-
-    a {
-        color: #0E79B2;
-        text-decoration: none;
-    }
-
-    section {
-        width: 65%;
-    }
-
-
-    /*
-     *  Header Elements CSSing
-     *****************************
-    #logo-name {
-        margin: 0px 0px 0px 150px;
-        
-
-    }
-
-    #logo-image {
-        margin: 1px;
-        float: left;
-    }
-
-    #logo-float {
-        display: inline-block;
-        margin: 1px auto;
-    }
-
-    /*
-     *
-     * Menu Navigation CSSing
-     **********************************
-    .navigation-menu {
-        margin: 0px 0px 0px -40px;
-        padding: 1px;
-    }
-
-    .ulist {
-        display: inline-block;
-    }
-
-    .hom-but, .abo-but, .pro-but,
-    .skl-but, .con-but {
-        margin: 1px 25px;
-        padding: 5px;
-        border: 2px solid #EFE7DA;
-        background: #30323D;
-        color: #EFE7DA;
-        text-decoration: none;
-        border-radius: 5px;
-        text-align: center;
-    }
-
-
-
-    /*********** HOME PAGE **************
-     *
-     *
-     * Home Section Elements CSSing
-     ********************************
-    .home-sec-about-me {
-        margin: 1px auto 5px 0px;
-        padding: 2px;
-        line-height: 1.5;
-    }
-
-    .more-about-me {
-        margin: 1px 0px 0px 0px;
-        padding: 2px 5px;
-        border: 1px solid #BBCBCB;
-        background: #BBCBCB;
-        color: #090C02;
-        text-decoration: none;
-        border-radius: 2px;
-    }
-}*/
-    
