@@ -11,4 +11,4 @@
 		
 #### Current web page is hosted by using github.io (page service)
 	* You may find my web page using the following address
-	[https://lwin009.github.io/Portfolio](https://lwin009.github.io/Portfolio/index.html) 
+	[Computer Science Portfolio](https://lwin009.github.io/Portfolio/index.html) 
