@@ -2,7 +2,7 @@
 
 ### Descriptions
 	
-	* This is a web page that I build learning web development in my spare time.
+	* This is a web page that I build from learning web development in my spare time.
 	* It contains as following:
 		* Information (About Me)
 		* Skills
