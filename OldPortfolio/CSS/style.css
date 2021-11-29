@@ -1,0 +1,143 @@
+/*
+    
+    Colors::::
+
+    #00072d     Oxford Blue
+    #78C0E0     Dark Sky Blue
+    #59656F     Black Coral
+    #C2F8CB     Tea Green
+    #F0F0C9		Light Goldenrod Yellow
+    #D74E09		Flame Red
+    #59A5D8		Carolina Blue
+    #0E79B2		Star Command Blue
+	#3C787E		Ming gray green
+	#BBCBCB		Silver Sand
+	#030301		Rich Black FOGRA 39
+	#171D1C		Dark Jungle green
+	#30323D		Jet dark gray
+	#031A6B		Midnight Blue
+	#1B2432		Gunmetal
+	#2C2B3C		Raisin Black 
+    #EFE7DA     Linen (whiteish)
+    #090C02     Black Chocolate
+    #A72608     Rufous (sharp red)
+    #EEE5BF     Lemon Meringue (light yellow)
+
+******************************/
+
+
+/*
+ *  Global Elements CSSing
+ *****************************/
+html{
+    background: #1B2432;
+    color: #EFE7DA;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 18px;
+}
+
+header {
+    margin: 1px 35%;
+    padding: 1px;
+}
+
+ul {
+    margin: 5px 1%;
+    padding: 20px;
+    background: #3A3335;
+}
+
+a {
+    font-weight: 800;
+    color: #59A5D8;
+}
+
+/**
+ * 
+ * Header CSSing
+ * ********************/
+
+ .menu-tabs {
+    display: inline-block;
+ }
+
+ .name {
+    margin: 5px;
+    padding: 2px;
+    font-size: 6em;
+    inline-size: 2em;
+    white-space: nowrap;
+    text-align: center;
+    text-decoration: none;
+    color: #EFE7DA;
+ }
+
+ .portfo {
+    margin: 1px 5px 1px 125px;
+    font-size: 1em;
+ }
+
+ .abm {
+    word-wrap: normal;
+    inline-size: 100px;
+ }
+
+ .home-but, .abme-but,
+ .skll-but, .proj-but,
+ .cont-but {
+    margin: 1px 20px;
+    padding: 10px 10px 22px 10px;
+    list-style: none;
+    text-decoration: none;
+    background: #090C02;
+    color: #EFE7DA;
+    border-top-right-radius: 6px;
+    border-top-left-radius: 6px;
+    border-bottom-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+ }
+
+ /**
+  * 
+  * Section CSSing
+  * ***************************/
+  .section-content {
+    max-width: 900px;
+    width: 85%;
+    /*margin: 0px 20px;*/
+    margin: 0px 0px 35% 20px;
+    /*line-height: 1.5;*/
+  }
+
+  .section-border {
+    border: 10px solid #090C02;
+  }
+
+  .home-but {
+    padding: 10px 10px 28px 10px ;
+  }
+
+  .mabm-but {
+    margin: 2px;
+    padding: 2px;
+    background: #EFE7DA ;
+    color: #3A3335;
+    text-decoration: none;
+    border-radius: 3px;
+    text-align: center;
+  }
+
+ /* .empty-space {
+    margin: 35% 0px;
+  }
+*/
+
+
+  /**
+   * 
+   * Footer CSSing
+   * ***************************/
+   .ftr-posit {
+    text-align: center;
+   }
+

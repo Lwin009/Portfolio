@@ -1,0 +1,109 @@
+/*
+    
+    Colors::::
+
+    #00072d     Oxford Blue
+    #78C0E0     Dark Sky Blue
+    #59656F     Black Coral
+    #C2F8CB     Tea Green
+    #F0F0C9		Light Goldenrod Yellow
+    #D74E09		Flame Red
+    #59A5D8		Carolina Blue
+    #0E79B2		Star Command Blue
+	#3C787E		Ming gray green
+	#BBCBCB		Silver Sand
+	#030301		Rich Black FOGRA 39
+	#171D1C		Dark Jungle green
+	#30323D		Jet dark gray
+	#031A6B		Midnight Blue
+	#1B2432		Gunmetal
+	#2C2B3C		Raisin Black
+
+******************************/
+
+
+/*
+ *  Global CSS Function
+ *****************************/
+html{
+    margin: 5px;
+    padding: 5px;
+}
+
+body {
+    width: 75%;
+    margin: 1em auto 2em;
+    background: #1B2432;
+	color: #C2F8CB;
+}
+
+a {    
+    color: #78C0E0;
+}
+
+h1 {
+    font-size: 5em;
+}
+
+
+figure {
+    margin: 2px;
+    padding: 3px;
+    display: block;
+}
+
+figcaption {
+    font-size: xx-small;
+}
+
+
+/*
+ * Header Elements CSSing
+ *****************************/
+#logo-LO, #content-name {
+    display: inline-block;
+}
+
+#content-name {
+    margin: 1px 1px 1px 10px;
+}
+
+/*
+ * Body Elements CSSing
+ ****************************/
+.ulist {
+    background: lightskyblue;
+    padding: 10px 1px 1px 5px;
+    margin: 5px 1px 5px 0px;
+}
+
+.hbut, .abut, .pbut, .sbut, .cbut {    
+    margin: 5px 5px 1px 0px;
+    padding: 5px;
+    border: 1px ;
+    background: #1B2432;
+    border-radius: 1px;
+    text-decoration: none;
+    color: white;
+}
+
+.hbut:hover, .abut:hover, .pbut:hover, .sbut:hover, .cbut:hover {
+    background: #F0F0C9;
+    color: black;
+    font-weight: 700;
+    border-radius: 5px;
+}
+
+.me-image {
+    float: left;
+    padding: 1px 10px 1px 0px;
+}
+
+
+/*
+ *
+ * Paragraph or Text CSSing
+ ****************************/
+.about-me-text {
+    padding: 0px 0px 1px 5px;
+}
