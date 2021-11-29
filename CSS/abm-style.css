@@ -46,7 +46,8 @@
 
   .section-content {
     width: 75%;
-    margin: 0px 20px;
+    /*margin: 0px 20px;*/
+    margin: 0px 0px 35% 20px;
     display: flexbox;
   }
 
@@ -71,10 +72,10 @@
     margin: -22px 0px -48px 0px;
   }
 
-  .empty-space {
+ /* .empty-space {
     margin: 35% 0px;
   }
-
+*/
 
   /**
    * 

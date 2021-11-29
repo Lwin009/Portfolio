@@ -24,6 +24,9 @@
 
 ******************************/
 
+/**
+ * Global CSSing
+ * ****************************/
 
 
  /**
@@ -54,9 +57,31 @@
     background: none;
   }
 
-  .empty-space {
-    margin: 35% 0px;
+  .section-content {
+    max-width: 900px;
+    width: 100%;
+    margin: 0px 0px 35% 20px;
   }
+
+  .project-item {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    column-gap: 20px;
+
+  }
+
+  .course-title,
+  .course-detail{
+    display: inline-block;
+  }
+
+  .course-detail {
+    padding: 20px;
+  }
+
+  /*.empty-space {
+    margin: 35% 0px;
+  }*/
 
   /**
    * 
