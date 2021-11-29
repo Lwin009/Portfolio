@@ -1,4 +1,4 @@
-# Welcome to my Computer Science Web page
+# My Computer Science Web Page
 
 ### Descriptions
 	
