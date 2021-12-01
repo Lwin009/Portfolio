@@ -1,4 +1,4 @@
-/*
+/*****************************
     Colors::::
 
     #00072d     Oxford Blue
@@ -25,10 +25,46 @@
 ******************************/
 
 
- /**
+/* Tab Menu CSSing */
+
+.menu-tab  a{
+    margin: 5px 10px;
+    padding: 10px 10px 15px 10px;
+    background: black;
+    color: #EFE7DA;
+    text-decoration: none;
+    border-radius: 5px;
+    white-space: nowrap;
+}
+
+li > .abme-but {
+  padding: 10px 10px 30px 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* /**
   * 
   * Section CSSing
-  * ***************************/
+  * ***************************
   .home-but, .abme-but,
   .skll-but, .proj-but,
   .cont-but {
@@ -46,7 +82,7 @@
 
   .section-content {
     width: 75%;
-    /*margin: 0px 20px;*/
+    /*margin: 0px 20px;*
     margin: 0px 0px 35% 20px;
     display: flexbox;
   }
@@ -80,7 +116,7 @@
   /**
    * 
    * Footer CSSing
-   * ***************************/
+   * ***************************
    .ftr-posit {
     text-align: center;
    }
