@@ -63,6 +63,13 @@ nav > ul > li {
     list-style: none;
 }
 
+section a {
+    color: lightblue;
+    background-color: #090C02;
+    padding: 2px;
+    border-radius: 3px;
+}
+
 /* Header CSSing */
 
 .title-name {
@@ -98,8 +105,19 @@ li > .home-but {
 
 .section-wrapper {
     width: 95%;
-    margin: 0 5px;
+    margin: 0 10px;
     padding: 0 0 25% 0;
+}
+
+/* Contents CSSing */
+
+#image-lwinoo {
+    float: left;
+    margin: 0px 10px;
+}
+
+section > p {
+    width: 75%;
 }
 
 /* Footer CSSing */

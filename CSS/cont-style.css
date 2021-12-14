@@ -41,3 +41,48 @@ li > .cont-but {
   padding: 10px 10px 30px 10px;
 }
 
+/* Message CSSing */
+
+div > p {
+  margin: 10px 30% 5px 10px;
+}
+
+/* Form CSSing */
+
+label {
+  white-space: nowrap;
+}
+
+form {
+  width: 350px;
+  margin: 50px 60% 10px 15px;
+}
+
+.email-entry {
+  display: grid;
+  grid-auto-flow: column;
+  grid-column-gap: 2px;
+  margin: 0;
+  padding: 5px;
+}
+
+.subject-entry {
+  display: grid;
+  grid-auto-flow: column;
+  grid-column-gap: 30px;
+  margin: 0;
+  padding: 5px;
+}
+
+.message-entry {
+  display: grid;
+  grid-auto-flow: column;
+  grid-column-gap: 20px;
+  margin: 0;
+  padding: 5px;
+}
+
+.sent-but input {
+  width: 25%;
+  margin: 5% 73%;
+}

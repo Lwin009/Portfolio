@@ -41,3 +41,8 @@ li > .proj-but{
   padding: 10px 10px 30px 10px;
 }
 
+/* Project Section CSSing */
+
+.project-title + h4 {
+  display: inline-block;
+}

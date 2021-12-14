@@ -41,4 +41,8 @@ li > .skll-but {
   padding: 10px 10px 30px 10px;
 }
 
+ol > li {
+    list-style: disc;
+}
+
 
