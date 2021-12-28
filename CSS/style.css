@@ -103,6 +103,7 @@ li > .home-but {
     border: 10px solid black;
 }
 
+
 .section-wrapper {
     width: 95%;
     margin: 0 10px;
@@ -110,13 +111,17 @@ li > .home-but {
 }
 
 /* Contents CSSing */
-
-#image-lwinoo {
-    float: left;
-    margin: 0px 10px;
+div > section{
+    display: block;
+    margin: 20px 0;
+    padding: 20px 0 65px 15px;
 }
 
-section > p {
+figure {
+    float: left;
+}
+
+figure + p {
     width: 75%;
 }
 
