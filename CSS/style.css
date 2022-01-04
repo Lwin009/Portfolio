@@ -131,3 +131,9 @@ footer {
     text-align: center;
     font-size: 15px;
 }
+
+
+/** Temporary */
+div > h1 {
+    font-size: 3em;
+  }
