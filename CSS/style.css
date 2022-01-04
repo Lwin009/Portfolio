@@ -113,16 +113,16 @@ li > .home-but {
 /* Contents CSSing */
 div > section{
     display: block;
-    margin: 20px 0;
-    padding: 20px 0 65px 15px;
+    margin: 1em auto 2em;
+    padding: 35px 0 70px 15px;
 }
 
 figure {
     float: left;
 }
 
-figure + p {
-    width: 75%;
+figure + h4 + p {
+    width: 90%;
 }
 
 /* Footer CSSing */

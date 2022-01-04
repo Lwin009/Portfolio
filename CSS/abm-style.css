@@ -41,7 +41,11 @@ li > .abme-but {
   padding: 10px 10px 30px 10px;
 }
 
-
+span {
+  float: left;
+  font-size: 5em;
+  margin: -15px 0px -15px 0px;
+}
 
 
 
